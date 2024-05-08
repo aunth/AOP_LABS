@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/vladmaslianko/Downloads/javafx-sdk-17.0.10/lib/**/*.jar",
+        "/Users/vladmaslianko/Downloads/sqlite-jdbc-3.45.3.0.jar"
+    ]
+}

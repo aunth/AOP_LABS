@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "App",
+			"request": "launch",
+			"mainClass": "App",
+			"projectName": "Lab5_e1f6be5c",
+			"vmArgs": "--module-path /Users/vladmaslianko/Downloads/javafx-sdk-21.0.2/lib --add-modules javafx.controls,javafx.fxml"
+
+		},
+	]
+  }
+  

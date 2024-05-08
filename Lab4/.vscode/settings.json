@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/vladmaslianko/Desktop/javafx-sdk-21.0.2/**/*.jar",
+        "/Users/vladmaslianko/Downloads/javafx-sdk-21.0.2/lib/**/*.jar"
+    ],
+    "java.jdt.ls.java.home": "/Users/vladmaslianko/Downloads/jdk-21.0.2.jdk/Contents/Home",
+    "java.jdt.ls.vmargs": "--add-modules=ALL-SYSTEM",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "/Users/vladmaslianko/Downloads/jdk-21.0.2.jdk/Contents/Home",
+            "default": true
+        }
+    ]
+}
