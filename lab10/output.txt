@@ -1,0 +1,7 @@
+Student Grades:
+John: 85
+Alice: 92
+Bob: 78
+Emily: 95
+Most Successful Student: Emily - Grade: 95
+Average Grade: 87.5
